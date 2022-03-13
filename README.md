@@ -1,4 +1,4 @@
-# leet fode solution
+# leet code solution
 
 ## Introduction
 
